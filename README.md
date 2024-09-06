@@ -1,4 +1,4 @@
-## artes-marciais-do-mundo: Seu guia para as artes marciais! 
+## Artes marciais do mundo -  Imersão Dev com Google Gemini
 
 **O que é?**
 
